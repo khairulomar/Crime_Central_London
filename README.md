@@ -1,4 +1,4 @@
-# Module 3 Project: London crime analysis
+# Crime analysis in Central London
 
 <img src="images/police.jpg">
 
